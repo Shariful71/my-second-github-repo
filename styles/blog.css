@@ -3,4 +3,10 @@ div{
     color: blanchedalmond;
     padding: 10px;
     margin: 10px;
+
+    ol{
+
+        color: chartreuse;
+        padding: 20px;
+    };
 }
